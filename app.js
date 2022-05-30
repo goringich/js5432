@@ -73,7 +73,7 @@
           n(o,c)
       }(),12e3),
       window.addEventListener("scroll", (function(){
-// вызывают тут
+// вызывают тут, вместо этого
         Object(o.check)(
           document.querySelector(".stories"),
           document.querySelectorAll(".stories__item__img"),
