@@ -2,9 +2,9 @@
   function (e,t,n){
     "use strict";
 
+    //       эту функцию
     function o(e,t,n,o){
-      
-//       эту функцию
+     
       function c(e){
         var t=e.getBoundingClientRect();
         return{
